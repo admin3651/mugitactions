@@ -1,1 +1,1 @@
-# mugitactions
+# mygitactions
